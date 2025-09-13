@@ -14,6 +14,7 @@ public class Student {
     private String sName; 
     private String email; 
     private int semester; 
+    private String prgName; 
     public int getsId() {
         return sId;
     }
