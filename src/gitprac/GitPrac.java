@@ -19,7 +19,7 @@ public class GitPrac {
     public static void main(String[] args) {
         Student [] studentList = new Student[3]; 
         
-        
+        //this is branch code. 
         Student s1 = new Student(); 
         s1.setsName("Alex"); 
         s1.setEmail("alex@test");
