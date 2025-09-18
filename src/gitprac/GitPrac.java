@@ -11,6 +11,7 @@ package gitprac;
 public class GitPrac {
 
     // this is test for update 
+    // this is for the fetch and merge example
 
     /**
      * @param args the command line arguments
@@ -48,4 +49,5 @@ public class GitPrac {
     
 }
 }
+
 
